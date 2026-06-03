@@ -18,4 +18,3 @@ scratch/
 test_*.py
 generate_data.py
 build_notebook.py
-*.png
