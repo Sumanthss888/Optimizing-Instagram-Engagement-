@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Scratch and test files
+scratch/
+test_*.py
+generate_data.py
+build_notebook.py
+*.png
